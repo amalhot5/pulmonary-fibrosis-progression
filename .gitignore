@@ -1,2 +1,5 @@
 # Exclude data from Kaggle
 osic-pulmonary-fibrosis-progression
+
+#exclude saved variables 
+*.pkl

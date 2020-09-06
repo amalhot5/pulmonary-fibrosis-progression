@@ -3,3 +3,6 @@ osic-pulmonary-fibrosis-progression
 
 #exclude saved variables 
 *.pkl
+t-*.ipynb
+.ipynb_checkpoints
+.vscode

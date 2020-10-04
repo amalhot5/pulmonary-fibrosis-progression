@@ -1,6 +1,8 @@
 # Exclude data from Kaggle
 osic-pulmonary-fibrosis-progression
 
+Test_JPG_zips
+Train_JPG_zips
 #exclude saved variables 
 *.pkl
 t-*.ipynb
